@@ -1,0 +1,135 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.photo {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 450px;
+}
+.card {
+  margin: auto;
+  margin-top: 20px;
+  width: 500px;
+}
+.card-info {
+  border: 1px solid red;
+  margin-bottom: 20px;
+  width: 300px;
+  border-radius: 10px;
+  padding: 5px;
+}
+.card-Aktion-photo {
+  display: block;
+  width: 50px;
+}
+.card-info {
+  display: flex;
+  object-fit: cover;
+  align-items: center;
+  width: 350px;
+}
+.info-text {
+  display: block;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 5px;
+}
+.info-text:hover {
+  color: red;
+}
+.info-cina {
+  color: rgb(231, 67, 67);
+}
+.card-Aktion-photo {
+  margin-right: 10px;
+}
+.card-color {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.card-color-item {
+  border-radius: 5px;
+  width: 36px;
+  height: 36px;
+}
+.card-color-text {
+  margin-bottom: 10px;
+}
+.item-1 {
+  background-color: yellow;
+}
+.item-2 {
+  background-color: grey;
+}
+.item-3 {
+  background-color: red;
+}
+.item-4 {
+  background-color: blue;
+}
+.item-5 {
+  background-color: black;
+}
+.info-1 {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+.card-info-ram {
+  display: flex;
+  width: 270px;
+  margin-bottom: 5px;
+}
+.info-1:hover {
+  background-color: black;
+  color: white;
+}
+.card-ram {
+  margin-bottom: 10px;
+}
+.card-info-buying {
+  text-decoration: none;
+  color: orange;
+  border-color: orange;
+  background-color: white;
+  font-size: 20px;
+  padding: 5px;
+  width: 200px;
+}
+.buying-1 {
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 350px;
+}
+.buying-2 {
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 350px;
+}
+.buying-3 {
+  border-radius: 5px;
+  width: 350px;
+}
+.buying-1:hover {
+  background-color: gainsboro;
+}
+.buying-2:hover {
+  background-color: gainsboro;
+}
+.buying-3:hover {
+  background-color: gainsboro;
+}
+.card-info-bicycle {
+  color: green;
+  margin-bottom: 5px;
+}
+.card-info-price {
+  font-size: 25px;
+}
